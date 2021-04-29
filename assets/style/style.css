@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.selector-for-some-widget {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+.submit-button {
+  margin-top: 5px;
+}
+/*# sourceMappingURL=style.css.map */
