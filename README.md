@@ -1,5 +1,5 @@
 # Overview
-Basic temperature converter made using HTML, JS & Bootstrap.
+Basic temperature converter made using HTML, JS & Bootstrap. (Celcius --> Fahrenheit & Fahrenheit --> Celcius)
 
 ## Description
 Basic javascript project to re-assure my knowledge and progression with the language. Built this within a few hours and got to experiment with bootstrap for the first time.
